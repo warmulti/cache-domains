@@ -1,0 +1,14 @@
+{
+  "cache_domains": [
+    {
+      "name": "nintendo",
+      "description": "CDN for Nintendo consoles",
+      "domain_files": ["nintendo.txt"]
+    },
+    {
+            "name": "soft98.ir"
+            "description": "CDN for Soft98 Download Server"
+            "domain_files": ["Soft98.ir"]
+        }
+  ]
+}
